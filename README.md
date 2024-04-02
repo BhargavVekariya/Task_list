@@ -17,21 +17,27 @@ Task List is a powerful and user-friendly application built using Flutter framew
 To install and run the app on your local machine, follow these steps:
 Clone the repository
 
-Copy code
+1.Clone Repository From Github
+
+```bash
 git clone https://github.com/BhargavVekariya/Task_list.git
-Navigate to the project directory
+```
 
-Copy code
+2.Navigate to the project directory
+```bash
 cd Task_list
-Install dependencies
+```
 
-Copy code
+3.Install dependencies
+```bash
 flutter pub get
+```
 This command will fetch and install all the required dependencies for the app.
-Run the app
 
-Copy code
+4.Run the app
+```bash
 flutter run
+```
 This command will compile the app and launch it on your connected device or emulator/simulator.
 
 Make sure you have Flutter installed and set up on your machine. If you don't have Flutter installed, you can find the installation instructions here.
@@ -45,19 +51,3 @@ Flutter - The open-source UI software development kit used to build this app.
 
 Feel free to modify and customize this README file according to your app's specific details, such as the app name, features, installation instructions, and any additional sections you might want to include (e.g., screenshots, usage examples, etc.).
 
-
-
-
-### Installation
-
-To install and run the app on your local machine, follow these steps:
-
-1. **Clone the repository**
-
-Click the button below to copy the command:
-
-<details>
-<summary>Copy command</summary>
-
-```bash
-git clone https://github.com/your-username/my-flutter-app.git
